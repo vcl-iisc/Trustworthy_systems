@@ -12,5 +12,4 @@ FAS_data/
 teacher_models/
 KD_data/
 _code/checkpoint/
-_code/images/
 *.t7
