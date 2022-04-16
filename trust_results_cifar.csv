@@ -1,0 +1,48 @@
+cifar10,resnet18,test,DeepFool,0,K-Means,norm_ddbs,741,3035,24.42
+cifar10,resnet18,test,DeepFool,0,K-Means,norm_Flipping_Freq,350,1189,29.44
+cifar10,resnet18,test,DeepFool,0,K-Means + HM Trust,T_score,741,2959,25.04
+cifar10,resnet18,test,DeepFool,1,K-Means,norm_ddbs,741,3036,24.41
+cifar10,resnet18,test,DeepFool,1,K-Means,norm_Flipping_Freq,8,93,8.6
+cifar10,resnet18,test,DeepFool,1,K-Means + HM Trust,T_score,741,2948,25.14
+cifar10,resnet18,test,PGD,0,K-Means,norm_ddbs,496,5968,8.31
+cifar10,resnet18,test,PGD,0,K-Means,norm_Flipping_Freq,657,8381,7.84
+cifar10,resnet18,test,PGD,0,K-Means + HM Trust,T_score,474,3301,14.36
+cifar10,resnet18,test,PGD,1,K-Means,norm_ddbs,508,6108,8.32
+cifar10,resnet18,test,PGD,1,K-Means,norm_Flipping_Freq,8,93,8.6
+cifar10,resnet18,test,PGD,1,K-Means + HM Trust,T_score,482,5516,8.74
+cifar10,robust_resnet18,test,DeepFool,0,K-Means,norm_ddbs,2346,2406,97.51
+cifar10,robust_resnet18,test,DeepFool,0,K-Means,norm_Flipping_Freq,676,1984,34.07
+cifar10,robust_resnet18,test,DeepFool,0,K-Means + HM Trust,T_score,2346,2382,98.49
+cifar10,robust_resnet18,test,DeepFool,1,K-Means,norm_ddbs,2346,2406,97.51
+cifar10,robust_resnet18,test,DeepFool,1,K-Means,norm_Flipping_Freq,22,93,23.66
+cifar10,robust_resnet18,test,DeepFool,1,K-Means + HM Trust,T_score,2346,2381,98.53
+cifar10,robust_resnet18,test,PGD,0,K-Means,norm_ddbs,223,918,24.29
+cifar10,robust_resnet18,test,PGD,0,K-Means,norm_Flipping_Freq,767,2395,32.03
+cifar10,robust_resnet18,test,PGD,0,K-Means + HM Trust,T_score,554,1528,36.26
+cifar10,robust_resnet18,test,PGD,1,K-Means,norm_ddbs,226,920,24.57
+cifar10,robust_resnet18,test,PGD,1,K-Means,norm_Flipping_Freq,22,93,23.66
+cifar10,robust_resnet18,test,PGD,1,K-Means + HM Trust,T_score,200,835,23.95
+cifar10,robust_wideresnet,test,DeepFool,0,K-Means,norm_ddbs,1559,5300,29.42
+cifar10,robust_wideresnet,test,DeepFool,0,K-Means,norm_Flipping_Freq,525,1623,32.35
+cifar10,robust_wideresnet,test,DeepFool,0,K-Means + HM Trust,T_score,1559,4729,32.97
+cifar10,robust_wideresnet,test,DeepFool,1,K-Means,norm_ddbs,1559,5299,29.42
+cifar10,robust_wideresnet,test,DeepFool,1,K-Means,norm_Flipping_Freq,19,93,20.43
+cifar10,robust_wideresnet,test,DeepFool,1,K-Means + HM Trust,T_score,1559,4784,32.59
+cifar10,robust_wideresnet,test,PGD,0,K-Means,norm_ddbs,134,719,18.64
+cifar10,robust_wideresnet,test,PGD,0,K-Means,norm_Flipping_Freq,460,1344,34.23
+cifar10,robust_wideresnet,test,PGD,0,K-Means + HM Trust,T_score,396,1059,37.39
+cifar10,robust_wideresnet,test,PGD,1,K-Means,norm_ddbs,134,725,18.48
+cifar10,robust_wideresnet,test,PGD,1,K-Means,norm_Flipping_Freq,19,93,20.43
+cifar10,robust_wideresnet,test,PGD,1,K-Means + HM Trust,T_score,125,687,18.2
+cifar10,vgg11,test,DeepFool,0,K-Means,norm_ddbs,867,3834,22.61
+cifar10,vgg11,test,DeepFool,0,K-Means,norm_Flipping_Freq,695,6548,10.61
+cifar10,vgg11,test,DeepFool,0,K-Means + HM Trust,T_score,867,3633,23.86
+cifar10,vgg11,test,DeepFool,1,K-Means,norm_ddbs,867,3834,22.61
+cifar10,vgg11,test,DeepFool,1,K-Means,norm_Flipping_Freq,5,93,5.38
+cifar10,vgg11,test,DeepFool,1,K-Means + HM Trust,T_score,867,3659,23.69
+cifar10,vgg11,test,PGD,0,K-Means,norm_ddbs,576,5515,10.44
+cifar10,vgg11,test,PGD,0,K-Means,norm_Flipping_Freq,479,1655,28.94
+cifar10,vgg11,test,PGD,0,K-Means + HM Trust,T_score,389,1160,33.53
+cifar10,vgg11,test,PGD,1,K-Means,norm_ddbs,585,5531,10.58
+cifar10,vgg11,test,PGD,1,K-Means,norm_Flipping_Freq,5,93,5.38
+cifar10,vgg11,test,PGD,1,K-Means + HM Trust,T_score,402,3577,11.24

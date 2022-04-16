@@ -1,0 +1,16 @@
+adv-lt
+code/data/
+data/
+code/__pycache__/
+*.pth
+*.pt
+*.pyc
+tiny-imagenet-200/
+wandb/
+ddb_data/
+FAS_data/
+teacher_models/
+KD_data/
+_code/checkpoint/
+_code/images/
+*.t7

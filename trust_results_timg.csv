@@ -1,0 +1,3 @@
+tinyimagenet,resnet18,train,PGD,0,K-Means,norm_ddbs,12,39363,0.03
+tinyimagenet,resnet18,train,PGD,0,K-Means,norm_Flipping_Freq,20,91352,0.02
+tinyimagenet,resnet18,train,PGD,0,K-Means + HM Trust,T_score,20,87969,0.02

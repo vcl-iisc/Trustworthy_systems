@@ -1,0 +1,27 @@
+svhn,resnet18,test,DeepFool,0,K-Means,norm_ddbs,3217,17451,18.43
+svhn,resnet18,test,DeepFool,0,K-Means,norm_Flipping_Freq,1589,2898,54.83
+svhn,resnet18,test,DeepFool,0,K-Means + HM Trust,T_score,3217,14718,21.86
+svhn,resnet18,test,DeepFool,1,K-Means,norm_ddbs,3217,17340,18.55
+svhn,resnet18,test,DeepFool,1,K-Means,norm_Flipping_Freq,5,56,8.93
+svhn,resnet18,test,DeepFool,1,K-Means + HM Trust,T_score,3217,15074,21.34
+svhn,resnet18,test,PGD,0,K-Means,norm_ddbs,1946,14161,13.74
+svhn,resnet18,test,PGD,0,K-Means,norm_Flipping_Freq,1399,2425,57.69
+svhn,resnet18,test,PGD,0,K-Means + HM Trust,T_score,2232,9827,22.71
+svhn,resnet18,test,PGD,1,K-Means,norm_ddbs,1958,14095,13.89
+svhn,resnet18,test,PGD,1,K-Means,norm_Flipping_Freq,5,56,8.93
+svhn,resnet18,test,PGD,1,K-Means + HM Trust,T_score,1664,11820,14.08
+svhn,resnet18,train,PGD,1,K-Means,norm_ddbs,2,41143,0.0
+svhn,resnet18,train,PGD,1,K-Means,norm_Flipping_Freq,0,164,0.0
+svhn,resnet18,train,PGD,1,K-Means + HM Trust,T_score,2,34665,0.01
+svhn,vgg11,test,DeepFool,1,K-Means,norm_ddbs,2614,17296,15.11
+svhn,vgg11,test,DeepFool,1,K-Means,norm_Flipping_Freq,8,39,20.51
+svhn,vgg11,test,DeepFool,1,K-Means + HM Trust,T_score,2614,14969,17.46
+svhn,vgg11,test,PGD,0,K-Means,norm_ddbs,1562,14385,10.86
+svhn,vgg11,test,PGD,0,K-Means,norm_Flipping_Freq,1329,2842,46.76
+svhn,vgg11,test,PGD,0,K-Means + HM Trust,T_score,1800,8312,21.66
+svhn,vgg11,test,PGD,1,K-Means,norm_ddbs,1546,14298,10.81
+svhn,vgg11,test,PGD,1,K-Means,norm_Flipping_Freq,8,39,20.51
+svhn,vgg11,test,PGD,1,K-Means + HM Trust,T_score,1367,12253,11.16
+svhn,vgg11,train,PGD,1,K-Means,norm_ddbs,2,40706,0.0
+svhn,vgg11,train,PGD,1,K-Means,norm_Flipping_Freq,0,128,0.0
+svhn,vgg11,train,PGD,1,K-Means + HM Trust,T_score,2,35958,0.01
