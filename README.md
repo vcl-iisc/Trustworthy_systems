@@ -1,4 +1,4 @@
-## Holistic Approach to Measure Sample-level Adversarial Vulnerability and itsUtility in Building Trustworthy Systems
+## Holistic Approach to Measure Sample-level Adversarial Vulnerability and its Utility in Building Trustworthy Systems
 #### Accepted at [Human-centered Intelligent Services Safety and Trustworthy](https://sites.google.com/nycu.edu.tw/hcis/home) (CVPR 2022 - Workshop)
 
 Project Website: [https://sites.google.com/view/sample-adv-trustworthy/home](https://sites.google.com/view/sample-adv-trustworthy/home)
