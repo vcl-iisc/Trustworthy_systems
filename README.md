@@ -25,3 +25,7 @@ booktitle={Conference on Computer Vision and Pattern Recognition (CVPR) Workshop
 year={2022}
 }
 ```
+
+#### Authors
+
+[Gaurav Kumar Nayak](https://sites.google.com/view/gauravnayak/)\*, [Ruchit Rawal](https://jarvvvis.github.io/)\*, [Rohit Lal](https://take2rohit.github.io/)\*, [Himanshu Patil](https://in.linkedin.com/in/hipatil), [Anirban Chakraborty](http://visual-computing.in/wp-content/uploads/2017/08/anirban-chakraborty.html) 
